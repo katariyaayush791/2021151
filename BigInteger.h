@@ -1,5 +1,5 @@
-#ifndef BigInteger_H
-#define BigInteger_H
+#ifndef BigInteger_h
+#define BigInteger_h
 
 struct BigInteger {
     struct Node * head;
